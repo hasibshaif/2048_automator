@@ -24,20 +24,20 @@ This repository contains a Python script that automates gameplay for the popular
 1. Install Python 3.x.
 
 2. Install Selenium WebDriver using pip:
-   pip install selenium
+   `pip install selenium`
 
 4. Download the WebDriver executable for your preferred browser:
 - [geckodriver (Firefox)](https://github.com/mozilla/geckodriver/releases)
 - [chromedriver (Chrome)](https://sites.google.com/a/chromium.org/chromedriver/downloads)
   
 4. Clone this repository:
-  git clone https://github.com/hasibshaif/2048_automator.git
+  `git clone https://github.com/hasibshaif/2048_automator.git`
 
 5. Navigate to the repository directory:
-   cd 2048-AutoPlayer
+   `cd 2048-AutoPlayer`
 
 6. Run the script:
- python automate_2048.py
+ `python automate_2048.py`
 
 
 
