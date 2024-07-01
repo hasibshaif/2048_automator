@@ -67,7 +67,7 @@ def restart_game(driver):
 # Main function
 def main():
     # Start the browser
-    driver = webdriver.Firefox()
+    driver = webdriver.Firefox() # For Chrome, download chromedriver, then change to: driver = webdriver.Chrome(executable_path='/path/to/chromedriver')
 
     # Open the game
     driver.get(url)
